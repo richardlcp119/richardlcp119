@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/richard-lim-9a3085324" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://www.instagram.com/limrichard119" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=richardlcp119@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -57,14 +60,6 @@ Hi there! I'm a university student with a strong interest in Backend and Mobile 
 </p>
 
 ### 👾 Activity Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/richardlcp119/richardlcp119/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/richardlcp119/richardlcp119/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/richardlcp119/richardlcp119/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/richardlcp119/richardlcp119/output/snake.svg" alt="Snake animation" />
