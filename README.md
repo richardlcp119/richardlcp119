@@ -1,12 +1,32 @@
-## Hi there 👋
+<div align="center">
+  <img src="img/header-banner.png" alt="Header Github" width="100%">
+</div>
 
-![Header Github](img/header.png)
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/richard-lim-9a3085324" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:richardlcp119@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+### 👋 About Me
+Hi there! I'm a university student with a strong interest in Backend and Mobile Development. I enjoy building systems and learning how things work behind the scenes.
+
+- 🔭 I’m currently focusing on my university studies while building personal projects.
+- 🌱 I’m currently deepening my knowledge in **Laravel**, **Flutter**, and database management (**MySQL**).
+- ⚡ Fun fact: I enjoy discussing logic algorithms and diving into UI/UX design concepts.
+
+### 💻 Tech Stack
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
   <img width="12" />
@@ -21,31 +41,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
 </div>
 
-###
+<!-- ### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=richardlcp119&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardlcp119&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div> -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/richardlcp119/richardlcp119/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/richardlcp119/richardlcp119/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/richardlcp119/richardlcp119/output/pacman-contribution-graph.svg">
-</picture>
+### 👾 Activity Graph
 
-###
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/richardlcp119/richardlcp119/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/richardlcp119/richardlcp119/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/richardlcp119/richardlcp119/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
 
-<img src="https://raw.githubusercontent.com/richardlcp119/richardlcp119/output/snake.svg" alt="Snake animation" />
-
-###
-
-<!--
-**richardlcp119/richardlcp119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/richardlcp119/richardlcp119/output/snake.svg" alt="Snake animation" />
+</div>
