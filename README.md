@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/richard-lim-9a3085324" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:richardlcp119@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=richardlcp119@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
@@ -40,12 +40,6 @@ Hi there! I'm a university student with a strong interest in Backend and Mobile 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
 </div>
-
-<!-- ### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=richardlcp119&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardlcp119&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div> -->
 
 ### 👾 Activity Graph
 
